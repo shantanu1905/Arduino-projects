@@ -1,5 +1,17 @@
-Components
-Required :  Arduino Uno Board
- 3 LEDs
- 220ohm resistor
+Hardware Required
+Arduino or Genuino Board
+optional
 
+LED
+220 ohm resistor
+
+                              code:
+                              pinMode(LED_BUILTIN, OUTPUT);
+                              digitalWrite(LED_BUILTIN, HIGH);
+                              delay(1000);   
+                              digitalWrite(LED_BUILTIN, LOW);
+                              delay(1000);   
+ 
+ circuit diagram:
+![test1](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_bb.png)
+![test2](https://www.arduino.cc/en/uploads/Tutorial/ExampleCircuit_sch.png)
