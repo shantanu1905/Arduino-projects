@@ -25,3 +25,13 @@ And mostly used sensors that's it.
                   Go to Tools → Board and select your board.
                step5: Select your serial port.
                step6:Upload the program to your board.
+               
+  IDE TOOL BAR :
+![IDE TOOL BAR](https://www.tutorialspoint.com/arduino/images/upload_program.jpg)
+
+    A − Used to check if there is any compilation error.
+    B − Used to upload a program to the Arduino board.
+    C − Shortcut used to create a new sketch.
+    D − Used to directly open one of the example sketch.
+    E − Used to save your sketch.
+    F − Serial monitor used to receive serial data from the board and send the serial data to the board.
