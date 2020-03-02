@@ -35,3 +35,21 @@ And mostly used sensors that's it.
     D − Used to directly open one of the example sketch.
     E − Used to save your sketch.
     F − Serial monitor used to receive serial data from the board and send the serial data to the board.
+    
+    
+    
+    
+  # wheather station using dht 11 and lcd using arduino
+                 components: 1. Arduino UNO Board (Buy Online from Amazon)
+                             2. dht 11
+                             3. 20X4 LCD Display 
+                             4. 10K Potentiometer 
+                             5. Connecting Jumper Wires
+                             6. Breadboard
+                             
+ # connection     
+ ![connection](file:///C:/Users/Acer/Pictures/Screenshots/Screenshot%20(310).png)
+ 
+ 
+                             
+
