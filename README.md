@@ -9,9 +9,13 @@
                              5. Connecting Jumper Wires
                              6. Breadboard
                              
- # connection     
- ![connection](file:///C:/Users/Acer/Pictures/Screenshots/Screenshot%20(310).png)
- 
+ # ultrasonic rangerfinder with 4 digit 7 segment display
+                components 1. Arduino uno board 
+                           2. TM1637 Seven segment display 
+                           3. HC-SR04 (ultrasonic sensor)
+                           5. jumper wires
+                 connections see the refered image in ultrasonic rangerfinder with 4 digit 7 segment display folder above .
+                 
  
                              
 
