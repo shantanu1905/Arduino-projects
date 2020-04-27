@@ -16,6 +16,8 @@
                            5. jumper wires
                  connections see the refered image in ultrasonic rangerfinder with 4 digit 7 segment display folder above .
                  
+                 Download the following library : NewPing.h and TM1637-master and HC-SR04 library, also provided in folder.    
+                 
  
                              
 
