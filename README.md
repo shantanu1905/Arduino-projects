@@ -21,8 +21,8 @@
                  components 1. Arduino uno board 
                             2. TM1637 Seven segment display 
                             3. jumper wires
-               see connection in referal diagram in Clock using TM1637 4digit 7segment display without RTC module folder above .       
-                            
+                connection: connect  CLK ---> 3(3rd pin of arduino)
+                                     DIO ---> 4(4th pin of arduino)
   
                              
 
