@@ -13,11 +13,16 @@
                 components 1. Arduino uno board 
                            2. TM1637 Seven segment display 
                            3. HC-SR04 (ultrasonic sensor)
-                           5. jumper wires
+                           4. jumper wires
                  connections see the refered image in ultrasonic rangerfinder with 4 digit 7 segment display folder above .
                  
                  Download the following library : NewPing.h and TM1637-master and HC-SR04 library, also provided in folder.    
-                 
- 
+ # Clock using TM1637 4digit 7segment display without RTC module
+                 components 1. Arduino uno board 
+                            2. TM1637 Seven segment display 
+                            3. jumper wires
+               see connection in referal diagram in Clock using TM1637 4digit 7segment display without RTC module folder above .       
+                            
+  
                              
 
